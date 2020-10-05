@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(54, 54, 54);
+}
+
+.container1{
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+    background-color: #000000;
+    margin: 0% auto;
+    color: #ffffff;
+    padding-left:30px ;
+    height: 1500px;
+}
+
+.container1 img{
+    margin-top: 20px;
+    height: 200px; 
+    width: 170px;
+}
+
+.rightside{
+    margin-top: 20px;
+    background-color: brown;
+    margin-left: 25%;
+    height: 50px;
+    width: 50%;
+}
+
+.edu{
+    background-color: cadetblue;
+    height: 200px;
+    /* margin-left: 25%;
+    height: 50px;
+    width: 50%; */
+}
