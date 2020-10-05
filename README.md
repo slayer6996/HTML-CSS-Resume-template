@@ -1,4 +1,4 @@
-# HTMLCSS--Resume-template
+# HTML-CSS-Resume-template
 
 ## Contribution guidelines 
 - Add Templates for Resume using HTML and CSS.
