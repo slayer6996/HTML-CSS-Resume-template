@@ -21,16 +21,24 @@ body{
 
 .rightside{
     margin-top: 20px;
-    background-color: brown;
+
     margin-left: 25%;
     height: 50px;
     width: 50%;
 }
 
+.edu1{
+    background-color: rgb(231, 141, 22);
+    height: 30px;
+  
+}
 .edu{
-    background-color: cadetblue;
-    height: 200px;
-    /* margin-left: 25%;
-    height: 50px;
-    width: 50%; */
+    background-color: rgb(199, 20, 139);
+    height:100px;
+}
+.about{
+    background-color: rgb(14, 129, 236);
+    
+   
+    height: 100px;
 }
